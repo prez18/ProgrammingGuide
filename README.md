@@ -1,0 +1,2 @@
+# ProgrammingGuide
+自分用の開発方針を記述するプロジェクト
